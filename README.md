@@ -1,4 +1,4 @@
-# 🐍 Direto ao Python  
+![Direto ao Python](https://img.shields.io/badge/Direto%20ao%20Python-%F0%9F%90%8D-blue?style=for-the-badge)
 
 Seja bem-vindo ao **Direto ao Python**! 🚀 Aqui você encontra tutoriais, dicas e projetos práticos sobre Python, automação, análise de dados e muito mais.  
 
