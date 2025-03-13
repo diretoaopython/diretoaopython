@@ -1,10 +1,8 @@
-![Direto ao Python](https://img.shields.io/badge/Direto%20ao%20Python-%F0%9F%90%8D-blue?style=for-the-badge)
-
-Seja bem-vindo ao **Direto ao Python**! 🚀 Aqui você encontra tutoriais, dicas e projetos práticos sobre Python, automação, análise de dados e muito mais.  
+Seja bem-vindo ao [Direto ao Python](https://www.youtube.com/@diretopython)! Aqui você encontra tutoriais, dicas e projetos práticos sobre Python, automação, análise de dados e muito mais.  
 
 ---
 
-## 🔥 O que você encontrará aqui?  
+## O que você encontrará aqui?  
 
 ✅ **Tutoriais** sobre Python e suas principais bibliotecas  
 ✅ **Projetos práticos** para reforçar seu aprendizado  
@@ -14,7 +12,7 @@ Seja bem-vindo ao **Direto ao Python**! 🚀 Aqui você encontra tutoriais, dica
 
 ---
 
-## 📚 Conteúdos recomendados  
+## Conteúdos recomendados  
 
 🔹 [Aprenda Python com Flet](https://www.youtube.com/playlist?list=PLi6TNT5J8PtXotYJBLypBTWoTW7OsXFP4)  
 🔹 [Aprenda Python com QGis](https://www.youtube.com/playlist?list=PLi6TNT5J8PtUdvtirdgTvCXd5Dw2T6kjW)  
@@ -23,9 +21,12 @@ Seja bem-vindo ao **Direto ao Python**! 🚀 Aqui você encontra tutoriais, dica
 
 ---
 
-## 📡 Entre em contato  
+## Entre em contato  
 
-📺 **YouTube**: [Direto ao Python](https://www.youtube.com/channel/UCcdceOajR9QZFAnMiQTAraA)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/DiretoAoPython)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DiretoAoPython)
+
+▶️ **YouTube**: [Direto ao Python](https://www.youtube.com/channel/UCcdceOajR9QZFAnMiQTAraA)  
 🐦 **Twitter**: [@DiretoAoPython](https://x.com/DiretoAoPython?t=yDrzOOR_Gml0VtiVYAZvQg&s=08)  
 📧 **E-mail**: diretoaopython@gmail.com
 
