@@ -25,7 +25,7 @@ Seja bem-vindo ao [Direto ao Python](https://www.youtube.com/@diretopython)! Aqu
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@diretopython)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DiretoAoPython?t=yDrzOOR_Gml0VtiVYAZvQg&s=08)
-[![Email](https://img.shields.io/badge/Email-contato%40exemplo.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diretoaopython@gmail.com)
+[![Email](https://img.shields.io/badge/Email-diretoaopython%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diretoaopython@gmail.com)
 
 
 
