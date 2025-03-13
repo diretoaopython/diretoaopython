@@ -1,8 +1,10 @@
-Seja bem-vindo ao [Direto ao Python](https://www.youtube.com/@diretopython)! Aqui você encontra tutoriais, dicas e projetos práticos sobre Python, automação, análise de dados e muito mais.  
+## Seja bem-vindo ao canal [Direto ao Python](https://www.youtube.com/@diretopython)! 
+
+Aqui você encontra tutoriais, dicas e projetos práticos sobre Python, automação, análise de dados e muito mais.  
 
 ---
 
-## O que você encontrará aqui?  
+### O que você encontrará aqui?  
 
 ✅ **Tutoriais** sobre Python e suas principais bibliotecas  
 ✅ **Projetos práticos** para reforçar seu aprendizado  
@@ -12,7 +14,7 @@ Seja bem-vindo ao [Direto ao Python](https://www.youtube.com/@diretopython)! Aqu
 
 ---
 
-## Conteúdos recomendados  
+### Conteúdos recomendados  
 
 🔹 [Aprenda Python com Flet](https://www.youtube.com/playlist?list=PLi6TNT5J8PtXotYJBLypBTWoTW7OsXFP4)  
 🔹 [Aprenda Python com QGis](https://www.youtube.com/playlist?list=PLi6TNT5J8PtUdvtirdgTvCXd5Dw2T6kjW)  
@@ -27,5 +29,6 @@ Seja bem-vindo ao [Direto ao Python](https://www.youtube.com/@diretopython)! Aqu
 
 
 
-**Compartilhe conhecimento e contribua com a comunidade!**
+#### **Compartilhe conhecimento e contribua com a comunidade!**
+
 
